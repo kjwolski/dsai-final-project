@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Azure ML
+.amlignore
+*.amltmp
+*/.amlignore
+*/.ipynb_aml_checkpoints/
