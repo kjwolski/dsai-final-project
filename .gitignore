@@ -223,3 +223,6 @@ __marimo__/
 *.amltmp
 */.amlignore
 */.ipynb_aml_checkpoints/
+
+# Dataset
+sample_reviews.csv
